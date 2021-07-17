@@ -1,0 +1,29 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+h1 {
+  color: #28c8ab;
+  font-size: 30px;
+  background-color: #fcd8d4;
+  padding: 20px;
+  margin: 15px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 40px;
+  width: 200px;
+  height: 200px;
+  box-shadow: 5px 5px 10px lightgray, -5px -5px 10px lightgray;
+}
+
+h2 {
+  background-color: #fcd8d4;
+  margin-top: 50px;
+}
+.blue__para {
+  color: blue;
+}
+
+#unique__para {
+  color: #96d1fe;
+}
